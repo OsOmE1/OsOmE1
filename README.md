@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hi There 👋, I'm OsOmE1</h1>
   
-🔭 I’m currently working on **Game Hacking things**
+🔭 I’m currently working on **Binary Deobfuscation and App developement**
 
 🌱 I’m currently learning **RE and C++**
 
