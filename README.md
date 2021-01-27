@@ -1,9 +1,2 @@
-<div align="center">
-<h1>Hi There 👋, I'm OsOmE1</h1>
-  
-🔭 I’m currently working on **Binary Deobfuscation and App developement**
-
-🌱 I’m currently learning **RE and C++**
-
-📫 Reach me at **osome1@protonmail.com, @OsOmE1#0019**
-</div>
+![OsOmE1's github stats](https://github-readme-stats.vercel.app/api?username=OsOmE1&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsOmE1&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e)
